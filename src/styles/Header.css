@@ -1,0 +1,14 @@
+header {
+  position: relative;
+  margin-top: 5px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+header img {
+  position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
