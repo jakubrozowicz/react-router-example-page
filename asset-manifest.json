@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-router-example-page/static/css/main.26469dda.css",
-    "main.js": "/react-router-example-page/static/js/main.eea58d29.js",
+    "main.js": "/react-router-example-page/static/js/main.69a94246.js",
     "static/media/header4.jpg": "/react-router-example-page/static/media/header4.9cd5948496cb2b373862.jpg",
     "static/media/header2.jpg": "/react-router-example-page/static/media/header2.7b8bb8e6e1b7c40bf893.jpg",
     "static/media/header1.jpg": "/react-router-example-page/static/media/header1.e8f3498231786d2e8c1a.jpg",
     "static/media/header3.jpg": "/react-router-example-page/static/media/header3.a3ba8e1a5173f53f912c.jpg",
     "index.html": "/react-router-example-page/index.html",
     "main.26469dda.css.map": "/react-router-example-page/static/css/main.26469dda.css.map",
-    "main.eea58d29.js.map": "/react-router-example-page/static/js/main.eea58d29.js.map"
+    "main.69a94246.js.map": "/react-router-example-page/static/js/main.69a94246.js.map"
   },
   "entrypoints": [
     "static/css/main.26469dda.css",
-    "static/js/main.eea58d29.js"
+    "static/js/main.69a94246.js"
   ]
 }
